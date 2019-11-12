@@ -1,28 +1,126 @@
-# A WebDesktop application configuration
 ---
-titleKey: application_title1
-descriptionKey: application_description
-appIndex: apps/usermanagement/
-path: a_path
-addedOn: 2121545432165
-lastDeployedOn: 2121545432165
-version: 2.0.1
-bgColor: bg-indigo
-bundleSymbolicName: 'com.eurodyn.qlack2.webdesktop.apps.qlack2-wdapps-user-management-imp'
-translationsGroup: usermanagement
-icon: '{icon-square}mif-user'
-iconSmall: '{icon}mif-user'
-width: '800'
-minWidth: '470'
-height: '500'
-minHeight: '450'
-active: true
-multipleInstances: false
-restrictAccess: true
-resizable: true
-draggable: true
-closable: true
-minimizable: true
-maximizable: true
-system: false
-showTitle: false
+- id: "088c8e4e-9eae-4885-a15e-01fd5cd6e122"
+  version: "2.0.1"
+  proxyPath: "/applications"
+  appIndex: "https://www.meteo.gr/cf.cfm?city_id=1"
+  multipleInstances: false
+  restrictAccess: true
+  icon: "https://www.eurodyn.com/wp-content/uploads/2018/11/logo_efdms.png"
+  iconSmall: "{icon}mif-user"
+  width: 800
+  minWidth: 470
+  height: 500
+  minHeight: 450
+  resizable: true
+  minimizable: true
+  maximizable: true
+  closable: true
+  draggable: true
+  translationsGroup: "usermanagement2"
+  active: true
+  addedOn: 2121545432165
+  lastDeployedOn: 2121545432162
+  system: false
+  showTitle: false
+  checksum: "866f232231447521369b01db7006d2c26e5c6b2e796342d344501287e9e97a52"
+  groupName: ""
+- id: "088c8e4e-9eae-4885-a15e-01fd5cd6e221"
+  version: "2.0.1"
+  proxyPath: "a_proxy_path1"
+  appIndex: "https://material.angular.io/"
+  multipleInstances: false
+  restrictAccess: true
+  icon: "https://cdn.dribbble.com/assets/dribbble-vector-ball-95ca193529993e9b3904f7adb541680aba196642f557cfaf3cdbb0a48a284be4.svg"
+  iconSmall: "{icon}mif-user"
+  width: 800
+  minWidth: 470
+  height: 500
+  minHeight: 450
+  resizable: true
+  minimizable: true
+  maximizable: true
+  closable: true
+  draggable: true
+  translationsGroup: "usermanagement1"
+  active: true
+  addedOn: 2121545432165
+  lastDeployedOn: 2121545432161
+  system: false
+  showTitle: false
+  checksum: "866f232231447521369b01db7006d2c26e5c6b2e796342d344501287e9e97a51"
+  groupName: "group1"
+- id: "088c8e4e-9eae-4885-a15e-01fd5cd6e223"
+  version: "2.0.1"
+  proxyPath: "a_proxy_path2"
+  appIndex: "https://www.webex.com"
+  multipleInstances: false
+  restrictAccess: true
+  icon: "https://www.eurodyn.com/wp-content/uploads/2018/11/logo_ed.png"
+  iconSmall: "{icon}mif-user"
+  width: 800
+  minWidth: 470
+  height: 500
+  minHeight: 450
+  resizable: true
+  minimizable: true
+  maximizable: true
+  closable: true
+  draggable: true
+  translationsGroup: "usermanagement3"
+  active: true
+  addedOn: 2121545432163
+  lastDeployedOn: 2121545432163
+  system: false
+  showTitle: false
+  checksum: "866f232231447521369b01db7006d2c26e5c6b2e796342d344501287e9e97a53"
+  groupName: ""
+- id: "088c8e4e-9eae-4885-a15e-01fd5cd6e224"
+  version: "2.0.1"
+  proxyPath: "a_proxy_path3"
+  appIndex: "https://www.eurodyn.com/"
+  multipleInstances: false
+  restrictAccess: true
+  icon: "https://www.eurodyn.com/wp-content/uploads/2018/10/european_dynamics_fav.png"
+  iconSmall: "https://www.eurodyn.com/wp-content/uploads/2018/10/european_dynamics_fav.png"
+  width: 800
+  minWidth: 470
+  height: 500
+  minHeight: 450
+  resizable: true
+  minimizable: true
+  maximizable: true
+  closable: true
+  draggable: true
+  translationsGroup: "usermanagement4"
+  active: true
+  addedOn: 2121545432163
+  lastDeployedOn: 2121545432164
+  system: false
+  showTitle: false
+  checksum: "866f232231447521369b01db7006d2c26e5c6b2e796342d344501287e9e97a54"
+  groupName: "group1"
+- id: "088c8e4e-9eae-4885-a15e-01fd5cd6e227"
+  version: "2.0.1"
+  proxyPath: "a_proxy_path4"
+  appIndex: "https://angular.io/"
+  multipleInstances: false
+  restrictAccess: true
+  icon: "{icon-square}mif-user"
+  iconSmall: "{icon}mif-user"
+  width: 500
+  minWidth: 470
+  height: 500
+  minHeight: 850
+  resizable: true
+  minimizable: true
+  maximizable: true
+  closable: true
+  draggable: true
+  translationsGroup: "usermanagement5"
+  active: true
+  addedOn: 2121545432165
+  lastDeployedOn: 2121545432165
+  system: false
+  showTitle: false
+  checksum: "866f232231447521369b01db7006d2c26e5c6b2e796342d344501287e9e97a59"
+  groupName: "group2"
