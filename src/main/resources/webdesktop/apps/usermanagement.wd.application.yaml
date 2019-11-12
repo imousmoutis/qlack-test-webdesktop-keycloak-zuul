@@ -19,7 +19,7 @@ system: false
 showTitle: false
 stripPrefix: false
 sensitiveHeaders: "xmm"
-applicationName: "angularmaterial ddsadsaddsssd"
+translationsGroup: "angularmaterial ddsadsaddsssd"
 lexicon:
 - languageLocale: "en"
   key: "title"
