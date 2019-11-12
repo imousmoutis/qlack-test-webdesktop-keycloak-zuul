@@ -17,6 +17,7 @@
   closable: true
   draggable: true
   translationsGroup: "usermanagement2"
+  lexicon: null
   active: true
   addedOn: 2121545432165
   lastDeployedOn: 2121545432162
@@ -24,9 +25,11 @@
   showTitle: false
   checksum: "866f232231447521369b01db7006d2c26e5c6b2e796342d344501287e9e97a52"
   groupName: ""
+  stripPrefix: false
+  sensitiveHeaders: "Cookie, Set-Cookie."
 - id: "088c8e4e-9eae-4885-a15e-01fd5cd6e221"
   version: "2.0.1"
-  proxyPath: "a_proxy_path1"
+  proxyPath: "a_proxy_path"
   appIndex: "https://material.angular.io/"
   multipleInstances: false
   restrictAccess: true
@@ -42,6 +45,7 @@
   closable: true
   draggable: true
   translationsGroup: "usermanagement1"
+  lexicon: null
   active: true
   addedOn: 2121545432165
   lastDeployedOn: 2121545432161
@@ -49,9 +53,11 @@
   showTitle: false
   checksum: "866f232231447521369b01db7006d2c26e5c6b2e796342d344501287e9e97a51"
   groupName: "group1"
+  stripPrefix: false
+  sensitiveHeaders: "Cookie, Set-Cookie."
 - id: "088c8e4e-9eae-4885-a15e-01fd5cd6e223"
   version: "2.0.1"
-  proxyPath: "a_proxy_path2"
+  proxyPath: "a_proxy_path"
   appIndex: "https://www.webex.com"
   multipleInstances: false
   restrictAccess: true
@@ -67,6 +73,7 @@
   closable: true
   draggable: true
   translationsGroup: "usermanagement3"
+  lexicon: null
   active: true
   addedOn: 2121545432163
   lastDeployedOn: 2121545432163
@@ -74,9 +81,11 @@
   showTitle: false
   checksum: "866f232231447521369b01db7006d2c26e5c6b2e796342d344501287e9e97a53"
   groupName: ""
+  stripPrefix: false
+  sensitiveHeaders: "Cookie, Set-Cookie."
 - id: "088c8e4e-9eae-4885-a15e-01fd5cd6e224"
   version: "2.0.1"
-  proxyPath: "a_proxy_path3"
+  proxyPath: "a_proxy_path"
   appIndex: "https://www.eurodyn.com/"
   multipleInstances: false
   restrictAccess: true
@@ -92,6 +101,7 @@
   closable: true
   draggable: true
   translationsGroup: "usermanagement4"
+  lexicon: null
   active: true
   addedOn: 2121545432163
   lastDeployedOn: 2121545432164
@@ -99,9 +109,11 @@
   showTitle: false
   checksum: "866f232231447521369b01db7006d2c26e5c6b2e796342d344501287e9e97a54"
   groupName: "group1"
+  stripPrefix: false
+  sensitiveHeaders: "Cookie, Set-Cookie."
 - id: "088c8e4e-9eae-4885-a15e-01fd5cd6e227"
   version: "2.0.1"
-  proxyPath: "a_proxy_path4"
+  proxyPath: "a_proxy_path"
   appIndex: "https://angular.io/"
   multipleInstances: false
   restrictAccess: true
@@ -117,6 +129,7 @@
   closable: true
   draggable: true
   translationsGroup: "usermanagement5"
+  lexicon: null
   active: true
   addedOn: 2121545432165
   lastDeployedOn: 2121545432165
@@ -124,3 +137,5 @@
   showTitle: false
   checksum: "866f232231447521369b01db7006d2c26e5c6b2e796342d344501287e9e97a59"
   groupName: "group2"
+  stripPrefix: false
+  sensitiveHeaders: "Cookie, Set-Cookie."
