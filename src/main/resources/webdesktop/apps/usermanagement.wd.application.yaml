@@ -10,7 +10,7 @@ icon: https://www.eurodyn.com/wp-content/uploads/2018/11/logo_efdms.png
 iconSmall: {icon}mif-user
 id: 088c8e4e-9eae-4885-a15e-01fd5cd6e122
 lastDeployedOn: 2121545432162
-lexicon: ~
+lexicon: 
 maximizable: true
 minHeight: 450
 minWidth: 470
