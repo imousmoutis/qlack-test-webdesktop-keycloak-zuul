@@ -1,28 +1,41 @@
---- 
+appIndex: "apps/usermanagement/sdsd"
+proxyPath: "a_path"
+version: "2.0.1"
+icon: "{icon-square}mif-user"
+iconSmall: "{icon}mif-user"
+width: "800"
+minWidth: "470"
+height: "500"
+minHeight: "450"
 active: true
-appIndex: https://www.meteo.gr/cf.cfm?city_id=1
-checksum: 866f232231447521369b01db7006d2c26e5c6b2e796342d344501287e9e97a52
-closable: true
-draggable: true
-groupName: giannis
-height: 500
-icon: https://www.eurodyn.com/wp-content/uploads/2018/11/logo_efdms.png
-iconSmall: {icon}mif-user
-id: 088c8e4e-9eae-4885-a15e-01fd5cd6e122
-lastDeployedOn: 2121545432162
-lexicon: 
-maximizable: true
-minHeight: 450
-minWidth: 470
-minimizable: true
 multipleInstances: false
-proxyPath: /applications
-resizable: true
 restrictAccess: true
-sensitiveHeaders: Cookie, Set-Cookie.
+resizable: true
+draggable: true
+closable: true
+minimizable: true
+maximizable: true
+system: false
 showTitle: false
 stripPrefix: false
-system: false
-translationsGroup: usermanagement2
-version: 2.0.1
-width: 800
+sensitiveHeaders: "xmm"
+applicationName: "angularmaterial ddsadsaddsssd"
+lexicon:
+- languageLocale: "en"
+  key: "title"
+  value: "angularmaterialsssssssss en"
+- languageLocale: "en"
+  key: "description"
+  value: "angularmaterialDescription en"
+- languageLocale: "el"
+  key: "title"
+  value: "angularmaterial EL"
+- languageLocale: "el"
+  key: "description"
+  value: "angularmaterialDescription EL"
+- languageLocale: "fr"
+  key: "title"
+  value: "angularmaterial FR"
+- languageLocale: "fr"
+  key: "description"
+  value: "angularmaterialDescription FR"
