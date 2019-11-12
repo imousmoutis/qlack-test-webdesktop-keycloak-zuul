@@ -1,11 +1,11 @@
 --- 
 active: true
-addedOn: 2121545432165
 appIndex: https://www.meteo.gr/cf.cfm?city_id=1
 checksum: 866f232231447521369b01db7006d2c26e5c6b2e796342d344501287e9e97a52
 closable: true
 draggable: true
 groupName: giannis
+height: 500
 icon: https://www.eurodyn.com/wp-content/uploads/2018/11/logo_efdms.png
 iconSmall: {icon}mif-user
 id: 088c8e4e-9eae-4885-a15e-01fd5cd6e122
