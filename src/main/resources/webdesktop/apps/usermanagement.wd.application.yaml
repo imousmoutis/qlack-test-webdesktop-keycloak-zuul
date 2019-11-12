@@ -19,4 +19,4 @@ system: false
 showTitle: false
 stripPrefix: false
 sensitiveHeaders: "xmm"
-translationsGroup: "angularmaterial"
+translationsGroup: "test group"
